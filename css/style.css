@@ -1,0 +1,24 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+    background: rgb(36, 33, 33); 
+    color: rgb(51, 255, 0);
+
+}
+.top_menu li{ 
+    display: inline-block;
+}
+
+.logo,  .top_menu{
+    display: inline-block;
+}
+header{
+     display: flex; 
+     justify-content: center;
+}
